@@ -29,6 +29,7 @@ class Agent:
         self.principal = None
 
     def work(self):
+        # 可以操作很多actor,对外只有work
         self.actor = Actor()
         if self.actor.get_status():
             self.actor.occupied()
