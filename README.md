@@ -4,3 +4,6 @@ Design pattern for Python
 ## 2. factory
 ## 3. facade
 ## 4. proxy
+## 5. observer
+## 6. command
+## 7. template
