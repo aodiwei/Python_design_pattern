@@ -7,3 +7,5 @@ Design pattern for Python
 ## 5. observer
 ## 6. command
 ## 7. template
+## 8. mvc
+## 9. status
